@@ -29,9 +29,9 @@ $(document).ready(function(){
 				n++;
 			}else if(i == 1401){
 				i = 0;
-				 k = 0;
-				 y = 0;
-				 n = 0;
+				k = 0;
+				y = 0;
+				n = 0;
 			}
 			i++;
 			// console.log(i);

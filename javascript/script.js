@@ -27,6 +27,11 @@ $(document).ready(function(){
 				$(".ball").css("left", 838 - n)
 				non3.removeClass("non3");
 				n++;
+			}else if(i == 1401){
+				i = 0;
+				 k = 0;
+				 y = 0;
+				 n = 0;
 			}
 			i++;
 			// console.log(i);
